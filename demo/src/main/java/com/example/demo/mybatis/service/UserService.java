@@ -1,5 +1,9 @@
 package com.example.demo.mybatis.service;
 
-public class UserService {
-    
+import java.util.List;
+
+import com.example.demo.mybatis.dto.User;
+
+public interface UserService {
+    List<User> getAllUser();
 }

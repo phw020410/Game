@@ -6,9 +6,8 @@ java :
     socker programming
     lambda
     spring
-    JPA
-    hibernate
-    JDBC
+    JPA - hibernate
+    JDBC - mybatis
     javaFX, swing, awt
 
 
@@ -25,6 +24,8 @@ want to do
 ANSI escape
 
 URLConnection이 HttpURLConnection 보다 상위 클래스
+
+URI에 코드나 텍스트를 인코딩해서 get method로 보내는 방법이 있음
 
 java Collection
 (i)iterable - (i)collection - (i)list - arraylist
